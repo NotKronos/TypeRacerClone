@@ -38,5 +38,10 @@ body {
     height: 880px;
 }
 .footer {
+    font-family: 'lato', sans-serif;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    background-color: #1c1c1c;
     height: 100px;
 }
